@@ -12,7 +12,7 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("hiii mmmmlmlmmf");
+        System.out.print("hiii mmmmmmmlmlmmmmmmf");
     }
     
 }
